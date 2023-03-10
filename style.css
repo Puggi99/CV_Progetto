@@ -4,7 +4,6 @@
 body{
     background-image: url("./assets/Siberian-Husky-mit-Welpe.jpg");
     background-size: cover;   
-    background-position: center;
 }
 header h1{
     font-family: 'Seaweed Script', cursive;
@@ -30,7 +29,7 @@ header img{
 
 header a{
     font-family: 'Shantell Sans';
-    color: rgb(12, 240, 240);
+    color: rgba(255, 255, 0, 0.884);
     text-decoration: none;
     font-weight: 700;
     background-color: rgba(17, 5, 5, 0.336);
@@ -51,5 +50,40 @@ header a{
     background-color: rgba(255, 255, 255, 0.164);
     margin-left: 20%;
     margin-right: 20%;
+    font-size: large;
     
+}
+
+.formazione h2{
+    font-size: xx-large;
+    font-family: 'Shantell Sans', cursive;
+   color: rgba(253, 10, 10, 0.815);
+   
+} 
+
+.sfondoformazione{
+    background-color: rgba(255, 255, 255, 0.116);
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.Università{
+    font-size: x-large;
+    font-family: 'Shantell Sans', cursive;
+   color: rgb(14, 1, 1);
+}
+
+
+.Universitàtesto{
+    font-size: large;
+    font-family: 'Shantell Sans', cursive;
+   color: rgba(14, 1, 1, 0.849);
+   font-weight:bolder
+   0;
+}
+
+.scuola{
+    font-size: x-large;
+    font-family: 'Shantell Sans', cursive;
+   color: rgba(14, 1, 1, 0.815);
 }
