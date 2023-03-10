@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Seaweed+Script&family=Shantell+Sans&display=swap');
+/* PAGINA HOME */ 
+
+body{
+    background-image: url("./assets/Siberian-Husky-mit-Welpe.jpg");
+    background-size: cover;   
+}
+header h1{
+    font-family: 'Seaweed Script', cursive;
+    font-size: xx-large;
+    color: rgb(241, 60, 14);
+}
+
+header h2{
+    font-family: 'Seaweed Script', cursive;
+    font-size: xx-large;
+    color: rgb(253, 51, 0);
+ 
+}
+
+header img{
+    position:relative;
+    width: 200px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 50%;
+    
+}
+
+header a{
+    font-family: 'Shantell Sans';
+    color: rgb(12, 240, 240);
+    text-decoration: none;
+    font-weight: 700;
+    background-color: rgba(17, 5, 5, 0.336);
+    margin-left: 20px;
+    margin-right: 20px;
+    display: inline;
+}
+
+.axiaformazione{
+    font-family: 'Shantell Sans', cursive;
+    font-weight: 900;
+}
+
+.testohome{
+    font-family: 'Shantell Sans', cursive;
+    color: rgba(0, 0, 0, 0.884);
+    background-color: rgba(255, 255, 255, 0.164);
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
