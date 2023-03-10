@@ -4,6 +4,7 @@
 body{
     background-image: url("./assets/Siberian-Husky-mit-Welpe.jpg");
     background-size: cover;   
+    background-position: center;
 }
 header h1{
     font-family: 'Seaweed Script', cursive;
