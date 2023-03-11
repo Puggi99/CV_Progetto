@@ -1,35 +1,41 @@
-@import url('https://fonts.googleapis.com/css2?family=Seaweed+Script&family=Shantell+Sans:wght@500&display=swap');
-/* PAGINA HOME */ 
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&family=Seaweed+Script&family=Shantell+Sans:wght@500&display=swap');
 
-body{
-    background-image: url("./assets/Siberian-Husky-mit-Welpe.jpg");
-    background-size: cover;   
+body {
+    background-image: url("./assets/JkWuBaP.jpeg");
+    background-size: cover;
+    background-position: center center;
+
+
 }
-header h1{
+
+header h1 {
     font-family: 'Seaweed Script', cursive;
     font-size: xx-large;
-    color: rgb(241, 60, 14);
+    color: rgba(247, 95, 57, 0.849);
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+
 }
 
-header h2{
+header h2 {
     font-family: 'Seaweed Script', cursive;
     font-size: xx-large;
-    color: rgb(253, 51, 0);
- 
+    color: rgba(226, 82, 63, 0.877);
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+
 }
 
-header img{
-    position:relative;
+header img {
+    position: relative;
     width: 200px;
-    height: 300px;
+    height: 400px;
     overflow: hidden;
     border-radius: 50%;
-    
+
 }
 
-header a{
+header a {
     font-family: 'Shantell Sans';
-    color: rgba(255, 255, 0, 0.884);
+    color: rgba(255, 255, 0, 0.849);
     text-decoration: none;
     font-weight: 700;
     background-color: rgba(17, 5, 5, 0.336);
@@ -37,166 +43,143 @@ header a{
     margin-right: 20px;
     display: inline;
     overflow: scroll;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+
 }
 
-.axiaformazione{
+.axiaformazione {
     font-family: 'Shantell Sans', cursive;
     font-weight: 900;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+
 }
 
-.testohome{
-    font-family: 'Shantell Sans', cursive;
-    color: rgba(0, 0, 0, 0.884);
-    background-color: rgba(255, 255, 255, 0.164);
-    margin-left: 20%;
-    margin-right: 20%;
+.testohome {
     font-size: large;
-    
+    font-family: 'Shantell Sans', cursive;
+    color: rgb(192, 190, 190);
+    font-weight: bolder 0;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+
+
+
 }
 
-.formazione h2{
+.formazione h2 {
     font-size: xx-large;
     font-family: 'Shantell Sans', cursive;
-   color: rgba(253, 10, 10, 0.815);
-   
-} 
+    color: rgba(247, 95, 57, 0.849);
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
 
-.sfondoformazione{
-    background-color: rgba(160, 214, 12, 0.137);
-    margin-left: 10%;
-    margin-right: 10%;
-    border-radius: 30% 30% 30% 30%; 
-    
 }
 
-.Università{
+
+
+.Università {
     font-size: x-large;
     font-family: 'Shantell Sans', cursive;
-   color: rgb(14, 1, 1);
-   background-color: rgba(255, 255, 255, 0.055);
-  
+    color: rgb(83, 69, 69);
+
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
 }
 
 
-.Universitàtesto{
+.Universitàtesto {
     font-size: large;
     font-family: 'Shantell Sans', cursive;
-   color: rgb(14, 1, 1);
-   font-weight:bolder 0;
+    color: rgb(192, 190, 190);
+    font-weight: bolder 0;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
 }
 
-.scuola{
+.scuola {
     font-size: x-large;
     font-family: 'Shantell Sans', cursive;
-   color: rgb(14, 1, 1);
-   background-color: rgba(255, 255, 255, 0.055);
+    color: rgb(83, 69, 69);
+
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+
 }
 
-.scuolasfondo{
-    background-color: rgba(160, 214, 12, 0.137);
-    margin-left: 10%;
-    margin-right: 10%;
-    border-radius: 30% 30% 30% 30%; 
-    
-}
 
-.scuolatesto{
+.scuolatesto {
     font-size: large;
     font-family: 'Shantell Sans', cursive;
-   color: rgb(14, 1, 1);
-   font-weight:bolder 0;
+    color: rgb(192, 190, 190);
+    font-weight: bolder 0;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
 }
 
-.sfondoesperienze{
-    background-color: rgba(160, 214, 12, 0.137);
-    margin-left: 10%;
-    margin-right: 10%;
-    border-radius: 30% 30% 30% 30%; 
-    
-   
-}
 
-.sfondoaddetto{
-    background-color: rgba(160, 214, 12, 0.137);
-    margin-left: 10%;
-    margin-right: 10%;
-    border-radius: 30% 30% 30% 30%; 
-    ; 
-}
 
-.sfondoesperienze h2{
+
+
+
+
+.sfondoesperienze h2 {
     font-size: xx-large;
     font-family: 'Shantell Sans', cursive;
-   color: rgba(253, 10, 10, 0.815);
-   
+    color: rgba(247, 95, 57, 0.849);
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+
 }
 
-.stagista{
+.stagista {
     font-size: x-large;
     font-family: 'Shantell Sans', cursive;
-   color: rgb(14, 1, 1);
-   background-color: rgba(255, 255, 255, 0.055);
-   display: inline;
+    color: rgb(83, 69, 69);
+
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+
+
 }
 
-.testostagista{
+.testostagista {
     font-size: large;
     font-family: 'Shantell Sans', cursive;
-   color: rgb(14, 1, 1);
-   font-weight:bolder 0;
-
+    color: rgb(192, 190, 190);
+    font-weight: bolder 0;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
 }
 
-section h1{
+section h1 {
     font-size: xx-large;
     font-family: 'Shantell Sans', cursive;
-   color: rgba(253, 10, 10, 0.815);
+    color: rgba(247, 95, 57, 0.849);
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
 }
 
-.testocompetenze{
-    font-size: normal;
+.testocompetenze {
+    font-size: large;
     font-family: 'Shantell Sans', cursive;
-   color: rgb(14, 1, 1);
-   font-weight:bolder 0;
-   
-   
-   
+    color: rgb(192, 190, 190);
+    font-weight: bolder 0;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+
+
+
 }
 
-.sfondocompetenze{
-    background-color: rgba(160, 214, 12, 0.137);
-    margin-left: 10%;
-    margin-right: 10%;
-    border-radius: 30% 30% 30% 30%; 
-    
 
-    
+footer a {
+    font-weight: 400;
+    font-family: 'Shantell Sans', cursive;
+    color: rgba(8, 230, 230, 0.541);
 }
 
-footer a{
+.testocontatti {
+    font-size: large;
+    font-family: 'Shantell Sans', cursive;
+    color: rgba(247, 95, 57, 0.849);
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+
+}
+
+
+.sfondocontatti a {
     font-weight: 400;
     font-family: 'Shantell Sans', cursive;
     color: rgb(8, 230, 230);
-}
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
 
-.testocontatti{
-    font-size: large;
-    font-family: 'Shantell Sans', cursive;
-   color: rgb(255, 6, 6);
-   font-weight:bolder 0;
-   
-}
-
-.sfondocontatti{
-    background-color: rgba(160, 214, 12, 0.137);
-    margin-left: 10%;
-    margin-right: 10%;
-    border-radius: 30% 30% 30% 30%; 
-     
-}
-
-.sfondocontatti a{
-    font-weight: 400;
-    font-family: 'Shantell Sans', cursive;
-    color: rgb(8, 230, 230);
 }
