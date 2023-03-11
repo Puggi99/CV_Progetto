@@ -63,9 +63,10 @@ header a{
 
 .sfondoformazione{
     background-color: rgba(160, 214, 12, 0.137);
-    margin-left: 30%;
-    margin-right: 30%;
-    border-radius: 20% 20% 20% 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 30% 30% 30% 30%; 
+    
 }
 
 .Università{
@@ -93,9 +94,10 @@ header a{
 
 .scuolasfondo{
     background-color: rgba(160, 214, 12, 0.137);
-    margin-left: 40%;
-    margin-right: 40%;
-    border-radius: 20% 20% 20% 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 30% 30% 30% 30%; 
+    
 }
 
 .scuolatesto{
@@ -107,23 +109,26 @@ header a{
 
 .sfondoesperienze{
     background-color: rgba(160, 214, 12, 0.137);
-    margin-left: 40%;
-    margin-right: 40%;
-    border-radius: 20% 20% 20% 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 30% 30% 30% 30%; 
+    
    
 }
 
 .sfondoaddetto{
     background-color: rgba(160, 214, 12, 0.137);
-    margin-left: 40%;
-    margin-right: 40%;
-    border-radius: 20% 20% 20% 20%; 
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 30% 30% 30% 30%; 
+    ; 
 }
 
 .sfondoesperienze h2{
     font-size: xx-large;
     font-family: 'Shantell Sans', cursive;
    color: rgba(253, 10, 10, 0.815);
+   
 }
 
 .stagista{
@@ -139,6 +144,7 @@ header a{
     font-family: 'Shantell Sans', cursive;
    color: rgb(14, 1, 1);
    font-weight:bolder 0;
+
 }
 
 section h1{
@@ -148,17 +154,23 @@ section h1{
 }
 
 .testocompetenze{
-    font-size: large;
+    font-size: normal;
     font-family: 'Shantell Sans', cursive;
    color: rgb(14, 1, 1);
    font-weight:bolder 0;
+   
+   
+   
 }
 
 .sfondocompetenze{
     background-color: rgba(160, 214, 12, 0.137);
-    margin-left: 40%;
-    margin-right: 40%;
-    border-radius: 20% 20% 20% 20%; 
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 30% 30% 30% 30%; 
+    
+
+    
 }
 
 footer a{
@@ -172,13 +184,15 @@ footer a{
     font-family: 'Shantell Sans', cursive;
    color: rgb(255, 6, 6);
    font-weight:bolder 0;
+   
 }
 
 .sfondocontatti{
     background-color: rgba(160, 214, 12, 0.137);
-    margin-left: 40%;
-    margin-right: 40%;
-    border-radius: 20% 20% 20% 20%; 
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 30% 30% 30% 30%; 
+     
 }
 
 .sfondocontatti a{
