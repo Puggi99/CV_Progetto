@@ -1,0 +1,123 @@
+body {
+    background-image: url("./assets/blue-glowing-diagonal-lines-abstract-background-design_1017-27053.jpg");
+    background-size: cover ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: rgb(1, 1, 34);
+
+}
+header{
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+    align-items: center;
+}
+header h1 {
+    font-family: 'Seaweed Script', cursive;
+    font-size: xx-large;
+    color: rgba(197, 231, 102, 0.76);
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+    
+}
+
+header h2 {
+    font-family: 'Seaweed Script', cursive;
+    font-size: xx-large;
+    color: rgba(197, 231, 102, 0.76);
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+    align-items: center;
+}
+
+header a {
+    font-family: 'Shantell Sans';
+    color: rgba(165, 240, 165, 0.897);
+    text-decoration: none;
+    font-weight: 700;
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+    align-items: center;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+
+}
+
+footer a {
+    font-weight: 400;
+    font-family: 'Shantell Sans', cursive;
+    color: rgba(196, 104, 142, 0.664);
+}
+
+.formazione h2 {
+    font-size: xx-large;
+    font-family: 'Shantell Sans', cursive;
+    color: white;;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.Università {
+    font-size: x-large;
+    font-family: 'Shantell Sans', cursive;
+    color: rgba(197, 231, 102, 0.76);
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+    align-items: center;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+}
+
+
+.Universitàtesto {
+    font-size: large;
+    font-family: 'Shantell Sans', cursive;
+    color: white;;
+    font-weight: bolder 0;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+    align-items: center;
+}
+
+.scuola {
+    font-size: x-large;
+    font-family: 'Shantell Sans', cursive;
+    color: rgba(197, 231, 102, 0.76);
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+    align-items: center;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+
+}
+
+
+.scuolatesto {
+    font-size: large;
+    font-family: 'Shantell Sans', cursive;
+    color: white;
+    font-weight: bolder 0;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+display: flex;
+justify-content:space-between;
+flex-direction: column;
+align-items: center;
+}
+
+
+.data{
+ color: white;
+ display: flex;
+justify-content:space-between;
+flex-direction: column;
+align-items: center; 
+
+}

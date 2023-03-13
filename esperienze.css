@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Patua+One&family=Seaweed+Script&family=Shantell+Sans:wght@500&display=swap');
-
 body {
     background-image: url("./assets/blue-glowing-diagonal-lines-abstract-background-design_1017-27053.jpg");
     background-size: cover ;
@@ -33,15 +31,6 @@ header h2 {
     align-items: center;
 }
 
-header img {
-    position: relative;
-    width: 200px;
-    height: 400px;
-    overflow: hidden;
-    border-radius: 10%;
-
-}
-
 header a {
     font-family: 'Shantell Sans';
     color: rgba(165, 240, 165, 0.897);
@@ -56,39 +45,56 @@ header a {
 
 }
 
-.axiaformazione {
+.sfondoesperienze h2 {
+    font-size: xx-large;
     font-family: 'Shantell Sans', cursive;
-    font-weight: 900;
+    color: white;
     text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
-    color: rgba(197, 231, 102, 0.76);
+    display: flex;
+    justify-content:justified;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 2;
 }
 
-.testohome {
+.stagista {
+    font-size: x-large;
+    font-family: 'Shantell Sans', cursive;
+    color: rgba(197, 231, 102, 0.76);
+
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+    display: flex;
+    justify-content:justified;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 4;
+
+}
+
+.testostagista {
     font-size: large;
     font-family: 'Shantell Sans', cursive;
     color: white;
     font-weight: bolder 0;
     text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
-
-
+    display: flex;
+    justify-content:justified;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 2;
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
+.data{
+    display: flex;
+    justify-content:justified;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
 
 footer a {
     font-weight: 400;
     font-family: 'Shantell Sans', cursive;
     color: rgba(196, 104, 142, 0.664);
 }
-
