@@ -78,8 +78,7 @@ header a {
     font-weight: bolder 0;
     text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
     display: flex;
-    justify-content:justified;
-    flex-direction: column;
+    justify-content:center;
     align-items: center;
     flex-grow: 2;
 
